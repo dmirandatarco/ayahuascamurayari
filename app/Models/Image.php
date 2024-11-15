@@ -42,6 +42,6 @@ class Image extends Model
             $prefix = 'blog';
         }
 
-        return env('URL_WEB') . '/storage/img/' . $prefix . '/' . $value;
+        return url('/storage/img/' . $prefix . '/' . $value);
     }
 }

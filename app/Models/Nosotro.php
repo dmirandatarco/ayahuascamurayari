@@ -31,7 +31,7 @@ class Nosotro extends Model
     {
         return new Attribute(
             get: function($value){
-                return env('URL_WEB').'/storage/img/nosotros/'.$value;
+                return url('/storage/img/nosotros/'.$value);
             }
         );
     }
@@ -40,7 +40,7 @@ class Nosotro extends Model
     {
         return new Attribute(
             get: function($value){
-                return env('URL_WEB').'/storage/img/nosotros/'.$value;
+                return url('/storage/img/nosotros/'.$value);
             }
         );
     }

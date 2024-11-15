@@ -21,7 +21,7 @@ class DetalleCertificado extends Model
     {
         return new Attribute(
             get: function($value){
-                return env('URL_WEB').'/storage/img/certificados/'.$value;
+                return url('/storage/img/certificados/'.$value);
             }
         );
     }
@@ -30,7 +30,7 @@ class DetalleCertificado extends Model
     {
         return new Attribute(
             get: function($value){
-                return env('URL_WEB').'/storage/img/certificados/'.$value;
+                return url('/storage/img/certificados/'.$value);
             }
         );
     }

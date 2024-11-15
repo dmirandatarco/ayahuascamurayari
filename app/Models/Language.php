@@ -19,7 +19,7 @@ class Language extends Model
     {
         return new Attribute(
             get: function($value){
-                return env('URL_WEB').'/storage/img/idioma/'.$value;
+                return url('/storage/img/idioma/'.$value);
             }
         );
     }

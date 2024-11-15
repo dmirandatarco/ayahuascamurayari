@@ -55,7 +55,7 @@ class Tour extends Model
     {
         return new Attribute(
             get: function($value){
-                return env('URL_WEB').'/storage/img/tours/'.$value;
+                return url('/storage/img/tours/'.$value);
             }
         );
     }

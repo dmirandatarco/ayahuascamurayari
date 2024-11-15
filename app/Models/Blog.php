@@ -27,7 +27,7 @@ class Blog extends Model
     {
         return new Attribute(
             get: function($value){
-                return env('URL_WEB').'/storage/img/blog/'.$value;
+                return url('/storage/img/blog/'.$value);
             }
         );
     }

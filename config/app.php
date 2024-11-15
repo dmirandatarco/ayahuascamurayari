@@ -54,6 +54,8 @@ return [
     |
     */
 
+    'url_web' => env('URL_WEB', 'https://api.ayahuascamurayari.com'),
+
     'url' => env('APP_URL', 'http://localhost'),
 
     'asset_url' => env('ASSET_URL'),

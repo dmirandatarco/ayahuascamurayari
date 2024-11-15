@@ -22,7 +22,7 @@ class Cabecera extends Model
     {
         return new Attribute(
             get: function($value){
-                return env('URL_WEB').'/storage/img/cabecera/'.$value;
+                return url('/storage/img/cabecera/'.$value);
             }
         );
     }
