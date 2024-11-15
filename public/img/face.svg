@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="210mm" height="297mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 21000 29700"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="722" font-variant="normal" style="fill-rule:nonzero" font-weight="700">
+	<font-face 
+		font-family="Arial">
+		<font-face-src>
+			<font-face-name name="Arial Bold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="f" horiz-adv-x="333" d="M11.9954 519.002l76.0079 0 0 39.1604c0,43.6756 4.66284,76.3401 14.0008,97.8334 9.32567,21.6656 26.5007,39.1727 51.5004,52.6691 25.1596,13.4964 56.8275,20.3369 95.1637,20.3369 39.1604,0 77.6688,-5.83162 115.328,-17.5072l-17.4949 -95.3236c-22.3299,5.16726 -43.8356,7.82471 -64.5046,7.82471 -20.3246,0 -34.8298,-4.66284 -43.6633,-14.0008 -8.83355,-9.32567 -13.3365,-27.325 -13.3365,-53.9979l0 -36.9951 103.001 0 0 -108.008 -103.001 0 0 -410.994 -136.994 0 0 410.994 -76.0079 0 0 108.008z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Arial";font-variant:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .fil0 {fill:#1363AB}
+    .fil1 {fill:#FEFEFE}
+    .fnt0 {font-weight:bold;font-size:812.81px;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <circle class="fil0" cx="9019.29" cy="25998.14" r="458.34"/>
+  <text x="8866.47" y="26294.41"  class="fil1 fnt0">f</text>
+ </g>
+</svg>
